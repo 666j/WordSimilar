@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1457396091 source:d:\c++\project\main.cpp
+	<SortChain.h>
+	<ChainNode.h>
+	<iostream>
+	<string>
+	<ChainHashTable.h>
+	<fstream>
+
+1457003251 d:\c++\project\include\sortchain.h
+	<ChainNode.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+
+1457003267 d:\c++\project\include\chainnode.h
+	<SortChain.h>
+	<stdlib.h>
+	<string>
+
+1457013597 source:d:\c++\project\src\sortchain.cpp
+	"SortChain.h"
+	<ChainNode.h>
+	<iostream>
+	<string>
+	<stdlib.h>
+
+1457396054 d:\c++\project\include\chainhashtable.h
+	<SortChain.h>
+	<ChainNode.h>
+	<string>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+
+1456894605 source:d:\c++\project\src\build_dictionary.cpp
+	"Build_Dictionary.h"
+
+1456897026 d:\c++\project\include\build_dictionary.h
+	<iostream>
+	<string>
+	<ChainHashTable.h>
+
